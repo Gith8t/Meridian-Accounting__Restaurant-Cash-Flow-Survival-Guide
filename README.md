@@ -6,9 +6,9 @@ Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail
 
 *70% of restaurants fail due to cash flow, not bad food. This guide shows you exactly how to track, predict, and manage your restaurant's cash with military precision.*
 
----
 
-## 🎯 What's Inside This Guide
+
+**## 🎯 What's Inside This Guide**
 
 ### Core Components
 ✅ **Interactive Excel Template** (7 integrated worksheets)  
@@ -26,9 +26,9 @@ Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail
 ✅ Government surprise payment calendar  
 ✅ Crisis scenario playbooks  
 
----
 
-## Table of Contents
+
+**## Table of Contents**
 
 1. [Why 13 Weeks?](#why-13-weeks)
 2. [Setting Up Your Forecast](#setting-up-your-forecast)
@@ -43,9 +43,9 @@ Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail
 11. [Crisis Scenario Playbooks](#crisis-scenarios)
 12. [Implementation Checklist](#implementation)
 
----
 
-## Why 13 Weeks?
+
+**## Why 13 Weeks?**
 
 ### The Restaurant Cash Reality Check
 
