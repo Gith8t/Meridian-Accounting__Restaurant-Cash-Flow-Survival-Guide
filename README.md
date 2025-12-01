@@ -7,8 +7,14 @@ Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail
 *70% of restaurants fail due to cash flow, not bad food. This guide shows you exactly how to track, predict, and manage your restaurant's cash with military precision.*
 
 
+# The Complete 13-Week Restaurant Cash Flow Survival Guide
+## Real-World Edition: Because Your P&L is Lying to You
 
-**## 🎯 What's Inside This Guide**
+*70% of restaurants fail due to cash flow, not bad food. This guide shows you exactly how to track, predict, and manage your restaurant's cash with military precision.*
+
+---
+
+## 🎯 What's Inside This Guide
 
 ### Core Components
 ✅ **Interactive Excel Template** (7 integrated worksheets)  
@@ -26,9 +32,9 @@ Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail
 ✅ Government surprise payment calendar  
 ✅ Crisis scenario playbooks  
 
+---
 
-
-**## Table of Contents**
+## Table of Contents
 
 1. [Why 13 Weeks?](#why-13-weeks)
 2. [Setting Up Your Forecast](#setting-up-your-forecast)
@@ -43,9 +49,9 @@ Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail
 11. [Crisis Scenario Playbooks](#crisis-scenarios)
 12. [Implementation Checklist](#implementation)
 
+---
 
-
-**## Why 13 Weeks?**
+## Why 13 Weeks?
 
 ### The Restaurant Cash Reality Check
 
@@ -1182,16 +1188,10 @@ You can survive 3 minutes without it. Maybe 4. Not 5.
 ## Need Professional Help?
 
 **Meridian Accounting and Advisory Services**
-*Restaurant Financial Management Specialists*
 
-- 13-Week Cash Flow Setup: $1,500
-- Monthly CFO Services: From $850
-- Crisis Intervention: Available 24/7
-- QuickBooks Optimization: Included
-
-📧 info@meridianaccounting.com
-📱 [Your Phone]
-🌐 [Your Website]
+📧 services@meridianaa.com
+📱 612-200-0875
+🌐 www.meridianaa.com
 
 **Free 30-Minute Cash Flow Review for Restaurants**
 
@@ -1199,5 +1199,7 @@ You can survive 3 minutes without it. Maybe 4. Not 5.
 
 *"The best time to implement cash flow management was when you opened. The second best time is today, before it's too late."*
 
+© 2024 Meridian Accounting and Advisory Services, LLC
+Feel free to share with attribution. Save a restaurant today.
 © 2024 Meridian Accounting and Advisory Services, LLC
 Feel free to share with attribution. Save a restaurant today.
