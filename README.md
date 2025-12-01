@@ -1,16 +1,9 @@
 # Meridian-Accounting__Restaurant-Cash-Flow-Survival-Guide
 Real-World Edition: Because Your P&amp;L is Lying to You 70% of restaurants fail due to cash flow, not bad food. This guide shows you how to track, predict, and manage your restaurant's cash with surgical precision.
 
-# The Complete 13-Week Restaurant Cash Flow Survival Guide
 ## Real-World Edition: Because Your P&L is Lying to You
 
-*70% of restaurants fail due to cash flow, not bad food. This guide shows you exactly how to track, predict, and manage your restaurant's cash with military precision.*
-
-
-# The Complete 13-Week Restaurant Cash Flow Survival Guide
-## Real-World Edition: Because Your P&L is Lying to You
-
-*70% of restaurants fail due to cash flow, not bad food. This guide shows you exactly how to track, predict, and manage your restaurant's cash with military precision.*
+*70% of restaurants fail due to cash flow, not bad food. This guide shows you exactly how to track, predict, and manage your restaurant's cash with surgical precision.*
 
 ---
 
